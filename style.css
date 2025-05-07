@@ -230,6 +230,7 @@ h3{
 }
 
 .square{
+    width: 100%;
     max-width: 400px;
     height: 400px;
     background-color: yellow;
