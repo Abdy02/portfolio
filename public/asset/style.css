@@ -1,0 +1,193 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.herosection{
+    display: flex;
+    height: calc(100vh - 77px);
+    background-color: yellow;
+    font-family: "Roboto", sans-serif;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 50px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.result{
+    display: flex;
+    display: block;
+    margin: auto;
+    justify-content: center;
+}
+
+a{
+    text-decoration: none;
+}
+
+header{
+    display: flex;
+    padding: 20px 0px;
+    padding-inline: 70px;
+    background-color: #000000;
+    color: white;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+}
+
+.col{
+    color: white;
+}
+
+.logo{
+    font-weight: 100;
+    align-items: center;
+}
+
+.code{
+    font-family: "Poiret One", sans-serif;
+    font-size: 30px;
+    font-weight: 100;
+}
+
+.nnn{
+    font-size: 30px;
+    font-weight: 700;
+    font-family: "Roboto", sans-serif;
+}
+
+.moon{
+    color: yellow;
+    font-size: 25px;
+}
+
+.section2{
+    height: 100vh;
+    background-color: white;
+    font-family: "Roboto", sans-serif;
+}
+
+h2{
+    text-decoration: underline;
+    margin-top: 100px;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 700;
+    margin-bottom: 100px;
+}
+
+.fast{
+    display: flex;
+    width: 150px;
+    height: 150px;
+    background-color: yellow;
+    border-radius: 75px; 
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.icon{
+    width: 210px;
+    margin: auto;
+    text-align: center;
+}
+
+.view{
+    padding: 15px 30px;
+    border: 2px solid black;
+    color: #000;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+.hello{
+    font-family: "Poiret One", sans-serif;
+    font-weight: 100;
+}
+
+.work{
+    font-weight: 300;
+}
+
+.view:hover{
+    background-color: #000;
+    color: white;
+}
+
+.time{
+    font-size: 50px;
+}
+
+.tog{
+    display: flex;
+    padding-inline: 60px;
+}
+
+.load{
+    font-size: 15px;
+}
+
+.circle{
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+    background-color: yellow;
+    margin: auto;
+    margin-bottom: 30px;
+}
+
+.nmn{
+    width: 470px;
+    text-align: center;
+}
+
+h3{
+    font-size: 30px;
+}
+.rer{
+    font-size: 15px;
+}
+
+.shape{
+    margin-top: 100px;
+    display: flex;
+    padding-inline: 20px;
+    justify-content: center;
+    gap: 40px;
+}
+
+.square{
+    width: 400px;
+    height: 400px;
+    background-color: yellow;
+}
+
+.section3{
+    background-color: #DBE6F0;
+    padding-top: 70px;
+    margin-top: 50px;
+}
